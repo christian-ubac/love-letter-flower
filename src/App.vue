@@ -29,8 +29,23 @@ const images = [
   "public/images/553444881_2507615292943129_436596881590310570_n.jpg",
   "public/images/553421593_838778115482390_3833614236647460713_n.jpg",
   "public/images/553187376_1300394398494104_3351524643113965086_n.jpg",
-  "public/images/553163867_1473565737208213_3915191110023600593_n.jpg"
+  "public/images/553163867_1473565737208213_3915191110023600593_n.jpg",
+  "public/images/2b47a11e-9fc0-4c91-8c18-96df5a28ceb6.jpg",
+  "public/images/09b5df02-b528-4420-93e7-5b72ef35ea9d.jpg",
+  "public/images/4b3d27c1-abc1-4c67-b318-8743c0a379c1.jpg",
+  "public/images/61fb58d6-b5dd-4c02-8096-8d7651b2382d.jpg",
+  "public/images/343ce13a-41aa-4936-97ae-943cfb30d7ad.jpg",
+  "public/images/638cd748-7dde-4afc-b104-66076fe8c09b.jpg",
+  "public/images/6394843c-26e7-4ccf-8a96-1a1266ed367f.jpg",
+  "public/images/6394843c-26e7-4ccf-8a96-1a1266ed367f.jpg",
+  "public/images/ae6a56c9-3735-47aa-be06-db7fa6086939.jpg",
+  "public/images/b88be11d-f93d-42c2-bc7b-7f298b297741.jpg",
+  "public/images/d1f3e2e1-1f0e-4f7c-8a3a-1e2b5c6d7e8f.jpg",
+  "public/images/e07ca91e-524d-485d-9e0c-1d05087e19f4.jpg",
+  "public/images/ce5e0b7e-fefa-4dba-b686-e61bc6e3c6ff.jpg",
+  "public/images/e8ead413-ab2c-4305-bca3-eb424de9863e.jpg"
 ];
+
 const currentImage = ref(0);
 
 const music = "/Your Universe (Acoustic).mp3";
